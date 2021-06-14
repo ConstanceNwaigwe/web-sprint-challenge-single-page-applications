@@ -1,4 +1,5 @@
 import React from "react";
+import Forms from './Form';
 
 const App = () => {
   return (
